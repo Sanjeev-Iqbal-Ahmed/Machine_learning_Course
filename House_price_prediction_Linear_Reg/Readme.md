@@ -2,15 +2,6 @@
 
 A machine learning project that predicts house prices based on various features using Linear Regression with Scikit-learn.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Code Explanation](#code-explanation)
-- [Model Evaluation](#model-evaluation)
-- [Visualizations](#visualizations)
-- [Making New Predictions](#making-new-predictions)
-- [Requirements](#requirements)
-- [Key Concepts](#key-concepts)
 
 ## 🔍 Overview
 
